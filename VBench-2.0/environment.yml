@@ -240,7 +240,7 @@ dependencies:
       - prettytable==3.14.0
       - prompt-toolkit==3.0.51
       - propcache==0.2.1
-      - protobuf==3.20.3
+      - protobuf
       - ptyprocess==0.7.0
       - pure-eval==0.2.3
       - py-cpuinfo==9.0.0

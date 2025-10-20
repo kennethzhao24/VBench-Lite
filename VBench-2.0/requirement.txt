@@ -112,7 +112,7 @@ portalocker==3.1.1
 preshed==3.0.9
 prettytable==3.14.0
 propcache==0.2.1
-protobuf==3.20.3
+protobuf
 py-cpuinfo==9.0.0
 pyarrow==18.1.0
 pycocoevalcap==1.2
