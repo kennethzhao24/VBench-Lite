@@ -303,9 +303,6 @@ dependencies:
       - sortedcontainers==2.4.0
       - sounddevice==0.5.2
       - soupsieve==2.6
-      - spacy==3.8.4
-      - spacy-legacy==3.0.12
-      - spacy-loggers==1.0.5
       - srsly==2.5.1
       - stack-data==0.6.3
       - starlette==0.41.3
